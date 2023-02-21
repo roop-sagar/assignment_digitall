@@ -1,0 +1,22 @@
+.getEmp {
+    border: 2px solid white;
+    padding: 20px;
+    width: 25%;
+    background-color: rgb(84, 86, 235);
+    border-radius: 8px;
+    box-shadow: 2px 2px 1px 1px white;
+    color: white;
+    font-size: medium;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.table {
+    width: 50%;
+}
+
+.table thead {
+    border-bottom: 1px solid black;
+    font-size: larger;
+    font-weight: 400;
+}
